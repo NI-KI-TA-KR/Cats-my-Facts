@@ -23,7 +23,5 @@ Go to the [Releases](previews/app-release.apk) to download the latest APK.
 
 ## Open Api
 
-<img src="https://cataas.com/cat?t=sq&time=16604827293478" align="right" width="21%"/>
-
 Application using the [Cataas](https://cataas.com/) for constructing RESTful API random image cat.<br>
 Application using the [Catfact Ninja](https://catfact.ninja/) for constructing RESTful API random fact about cat.<br>
